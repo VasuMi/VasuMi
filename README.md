@@ -28,5 +28,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/vasu-mishra-672297325" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefined@vasum1404" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VasuMi&show_icons=true&locale=en" alt="VasuMi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VasuMi&" alt="VasuMi" /></p>
